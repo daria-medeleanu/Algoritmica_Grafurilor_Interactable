@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1673347577 source:d:\users\daria\desktop\proiect_7_ian\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<stdlib.h>
+	<dos.h>
+	<iostream>
+	<cmath>
+	<cstring>
+
+1673347578 source:d:\users\daria\desktop\a2_algoritmica_grafurilor_cojocaru_adelin_medeleanu_daria\proiect_7_ian\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<stdlib.h>
+	<dos.h>
+	<iostream>
+	<cmath>
+	<cstring>
+
